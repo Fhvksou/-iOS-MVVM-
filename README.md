@@ -1,1 +1,2 @@
-# -iOS-MVVM-
+基于iOS的MVVM设计模式
+RAC简单使用
