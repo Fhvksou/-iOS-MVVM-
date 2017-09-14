@@ -1,0 +1,21 @@
+//
+//  HeadConfigure.pch
+//  MVVM-Demo
+//
+//  Created by fhkvsou on 17/9/11.
+//  Copyright © 2017年 fhkvsou. All rights reserved.
+//
+
+#ifndef HeadConfigure_pch
+#define HeadConfigure_pch
+
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import "DataTurn.h"
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <AFNetworking/AFNetworking.h>
+#import "NetWorkingManager.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* HeadConfigure_pch */
